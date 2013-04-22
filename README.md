@@ -3,15 +3,17 @@ liferayConext
 
 A connection library for SAML2 AuthN and VOOT based groups for Liferay
 
+
 How to build the OpenConext plugins.
 
 See http://www.liferay.com/community/wiki/-/wiki/Main/Plugins+SDK
 
+##Build
 Get the contents of this repo
-
 cd plugins
 ant all
 
+## Configuration
 Following properties can be overridden by adding a portlet-ext.properties file to the classpath of the portal.
 
 saml2.header.mapping.id=persistent-id
