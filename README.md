@@ -2,13 +2,9 @@ liferayConext
 =============
 
 A connection library for SAML2 AuthN and VOOT based groups for Liferay
+This plugin is a generic liferay plugin. For generic usage, prerequisites and build instructions see: http://www.liferay.com/community/wiki/-/wiki/Main/Plugins+SDK
 
-
-How to build the OpenConext plugins.
-
-See http://www.liferay.com/community/wiki/-/wiki/Main/Plugins+SDK
-
-##Build
+##Building this plugin
 * Get the contents of this repo
 * cd plugins
 * ant all
