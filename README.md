@@ -1,7 +1,7 @@
 liferayConext
 =============
 
-A connection library for SAML2 AuthN and VOOT based groups for Liferay
+A connection library for SAML2 AuthN and OAuth (VOOT) based groups for Liferay
 This plugin is a generic liferay plugin. For generic usage, prerequisites and build instructions see: http://www.liferay.com/community/wiki/-/wiki/Main/Plugins+SDK
 
 ##Building this plugin
