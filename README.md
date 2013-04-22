@@ -7,8 +7,8 @@ How to build the OpenConext plugins.
 
 See http://www.liferay.com/community/wiki/-/wiki/Main/Plugins+SDK
 
-# cd plugins
-# ant all
+## cd plugins
+## ant all
 
 Following properties can be overridden by adding a portlet-ext.properties file to the classpath of the portal.
 
