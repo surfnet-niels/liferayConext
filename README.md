@@ -9,8 +9,8 @@ How to build the OpenConext plugins.
 See http://www.liferay.com/community/wiki/-/wiki/Main/Plugins+SDK
 
 ##Build
-Get the contents of this repo
-cd plugins
+Get the contents of this repo;
+cd plugins;
 ant all
 
 ## Configuration
