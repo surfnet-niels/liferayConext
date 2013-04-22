@@ -26,3 +26,4 @@ opensocial.server.url=https://api.surfconext.nl/v1/
 opensocial.consumer.key=
 opensocial.consumer.secret=
 opensocial.redirect.url=
+
